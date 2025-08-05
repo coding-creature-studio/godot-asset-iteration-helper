@@ -2,7 +2,7 @@
 # Asset Iteration Helper addon for the Godot Engine 4.4+
 #
 # Version: 1.1.0
-# Godot Engine Compatibility: 4.4.0+B
+# Godot Engine Compatibility: 4.4.0
 # Author: Coding Creature
 # License: GPL 3.0 
 # Code Repository: https://github.com/coding-creature-studio/godot-asset-iteration-helper
